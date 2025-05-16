@@ -191,8 +191,8 @@ body.credits-page {
     position: absolute;
     top: 10px; /* Alinhado ao canto superior esquerdo */
     left: 10px;
-    width: 45px; /* Mesmo tamanho do botão de créditos */
-    height: 45px;
+    width: 35px; /* Mesmo tamanho do botão de créditos */
+    height: 35px;
     z-index: 1000; /* Garante que o botão fique acima de outros elementos */
     background-image: url('../images/return-icon.png');
     background-size: cover; /* Garante que a imagem preencha o botão */
