@@ -123,6 +123,10 @@ body {
     opacity: 0.8;
 }
 
+.no-justify {
+    text-align: left;
+}
+
 /* Animações */
 @keyframes ascend {
     from {
